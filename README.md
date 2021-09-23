@@ -4,7 +4,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/akintundefeolu?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akintunde-feolu-975831221/)](https://www.linkedin.com/in/akintunde-feolu-975831221/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-feolu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akintunde-feolu-975831221/)](https://www.linkedin.com/in/akintunde-feolu-975831221/)
 ![GitHub followers](https://img.shields.io/github/followers/feolubase?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me)
 ![Waka Readme](https://github.com/feolubase/feolubase/workflows/Waka%20Readme/badge.svg)
