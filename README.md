@@ -1,4 +1,4 @@
-<h2>(ahoy)🙏🏻, I'm Femi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>(ahoy) 🙏🏻, I'm Femi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Blockchain Developer at <a href="http://www.fiverr.com/defistaking/">Fiverr</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -7,7 +7,6 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-feolu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akintunde-feolu-975831221/)](https://www.linkedin.com/in/akintunde-feolu-975831221/)
 ![GitHub followers](https://img.shields.io/github/followers/feolubase?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me)
-![Waka Readme](https://github.com/feolubase/feolubase/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
